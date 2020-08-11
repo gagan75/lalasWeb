@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/lalas-web2/static/css/main.f81f385a.chunk.css",
+    "main.js": "/lalas-web2/static/js/main.5fd611ae.chunk.js",
+    "main.js.map": "/lalas-web2/static/js/main.5fd611ae.chunk.js.map",
+    "runtime-main.js": "/lalas-web2/static/js/runtime-main.a21fb0f0.js",
+    "runtime-main.js.map": "/lalas-web2/static/js/runtime-main.a21fb0f0.js.map",
+    "static/css/2.8cdcd3d5.chunk.css": "/lalas-web2/static/css/2.8cdcd3d5.chunk.css",
+    "static/js/2.5f5d3b59.chunk.js": "/lalas-web2/static/js/2.5f5d3b59.chunk.js",
+    "static/js/2.5f5d3b59.chunk.js.map": "/lalas-web2/static/js/2.5f5d3b59.chunk.js.map",
+    "index.html": "/lalas-web2/index.html",
+    "precache-manifest.d553bc615ea2639b8b0f2ab186fcd88b.js": "/lalas-web2/precache-manifest.d553bc615ea2639b8b0f2ab186fcd88b.js",
+    "service-worker.js": "/lalas-web2/service-worker.js",
+    "static/css/2.8cdcd3d5.chunk.css.map": "/lalas-web2/static/css/2.8cdcd3d5.chunk.css.map",
+    "static/css/main.f81f385a.chunk.css.map": "/lalas-web2/static/css/main.f81f385a.chunk.css.map",
+    "static/js/2.5f5d3b59.chunk.js.LICENSE.txt": "/lalas-web2/static/js/2.5f5d3b59.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/lalas-web2/static/media/img3.833a00a8.jpg",
+    "static/media/logo.svg": "/lalas-web2/static/media/logo.5d5d9eef.svg",
+    "static/media/slick-theme.css": "/lalas-web2/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a21fb0f0.js",
+    "static/css/2.8cdcd3d5.chunk.css",
+    "static/js/2.5f5d3b59.chunk.js",
+    "static/css/main.f81f385a.chunk.css",
+    "static/js/main.5fd611ae.chunk.js"
+  ]
+}
