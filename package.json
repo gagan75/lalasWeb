@@ -1,12 +1,14 @@
 {
   "name": "lalas-web2",
   "version": "0.1.0",
+  "homepage": "https://gagan75.github.io/lalas-web2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.5.2",
+    "gh-pages": "^3.1.0",
     "google-map-react": "^2.0.8",
     "google-maps-react": "^2.0.6",
     "jquery": "^3.5.1",
@@ -21,6 +23,8 @@
     "video-react": "^0.14.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
